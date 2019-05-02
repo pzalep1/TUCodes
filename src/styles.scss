@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: #3C3C3C;
+}
+
+.inner {
+    position: center; 
+    align-content: center;
+    position: relative; 
+}
+
+.title {
+    font-family: sans-serif;
+    color: #FFCC00;
+    size: 40px;
+}
